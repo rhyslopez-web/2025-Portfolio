@@ -7,11 +7,11 @@ const Header = () => {
         <nav className='fixed z-50 w-full bg-[#0A0B0B]'>
             {/* Navigation */}
             <ul className='grid grid-cols-5 border-b-1 border-neutral-900 '>
-                <li className='p-5 hover:bg-neutral-900 transition-all ease-in-out duration-500'>Home</li>
-                <li className='p-5 hover:bg-neutral-900 transition-all ease-in-out duration-500'>Portfolio</li>
-                <li className='p-5 hover:bg-neutral-900 transition-all ease-in-out duration-500'>Crochet</li>
-                <li className='p-5 hover:bg-neutral-900 transition-all ease-in-out duration-500'>About</li>
-                <li className='p-5 hover:bg-neutral-900 transition-all ease-in-out duration-500'>Contact</li>
+                <li className='p-5 hover:bg-neutral-900 transition-all ease-in-out duration-500 text-center'>Home</li>
+                <li className='p-5 hover:bg-neutral-900 transition-all ease-in-out duration-500 text-center'>Portfolio</li>
+                <li className='p-5 hover:bg-neutral-900 transition-all ease-in-out duration-500 text-center'>Crochet</li>
+                <li className='p-5 hover:bg-neutral-900 transition-all ease-in-out duration-500 text-center'>About</li>
+                <li className='p-5 hover:bg-neutral-900 transition-all ease-in-out duration-500 text-center'>Contact</li>
             </ul>
         </nav>
     </div>
