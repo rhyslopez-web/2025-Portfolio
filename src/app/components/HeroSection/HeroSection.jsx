@@ -8,10 +8,10 @@ const HeroSection = () => {
         <Paragraph></Paragraph>
 
         <PrimaryHeading>
-          RHYS LOPEZ
+          Danae Myles
         </PrimaryHeading>
         
-        <Paragraph>Vancouver Based, Web Designer</Paragraph>
+        <Paragraph>Vancouver Based, Makeup Artist</Paragraph>
     </section>
   )
 }
